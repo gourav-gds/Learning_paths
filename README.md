@@ -5,4 +5,4 @@ Links to most useful tutorials that I have used to study
 ### Kevin Markham:
 4 video series
 https://www.youtube.com/playlist?list=PL5-da3qGB5IDbOi0g5WFh1YPDNzXw4LNL
-Link to his GitHub: https://github.com/justmarkham/trump-lies/blob/master/trump_lies.ipynb
+Link to his [GitHub Python File](https://github.com/justmarkham/trump-lies/blob/master/trump_lies.ipynb)
